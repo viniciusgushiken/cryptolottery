@@ -1,0 +1,2 @@
+# cryptolottery
+Fun crypto lottery
