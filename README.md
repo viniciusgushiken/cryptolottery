@@ -1,2 +1,2 @@
 # Crypto Lottery
-Fun crypto lottery
+Fun crypto lottery using smart contracts
